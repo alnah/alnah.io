@@ -1,3 +1,27 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://alnah.github.io
+title: alnah.io
+theme: stack
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageCode: en
+    languageName: English
+    weight: 1
+    title: alnah.io
+    params:
+      subtitle: Building reliable system in Go
+  fr:
+    languageCode: fr
+    languageName: Français
+    weight: 2
+    title: alnah.io
+    params:
+      subtitle: Construire des systèmes fiables en Go
+  pt-br:
+    languageCode: pt-BR
+    languageName: Português (Brasil)
+    weight: 3
+    title: alnah.io
+    params:
+      subtitle: Construindo sistemas confiáveis em Go
