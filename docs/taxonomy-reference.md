@@ -7,6 +7,7 @@ Reference document for blog categories and tags organization.
 | Category         | Description                          | Status |
 | ---------------- | ------------------------------------ | ------ |
 | Tutorials        | Step-by-step guides                  | Now    |
+| Best Practices   | Patterns and recommendations         | Now    |
 | Deep Dives       | In-depth concept analysis            | Now    |
 | Project Updates  | Announcements and releases           | Now    |
 | Opinions         | Experience feedback, reflections     | Now    |
@@ -55,10 +56,11 @@ Reference document for blog categories and tags organization.
 
 ### Ecosystem / Tools
 
-| Tag           | Status |
-| ------------- | ------ |
-| modules       | Now    |
-| tooling       | Now    |
+| Tag               | Status |
+| ----------------- | ------ |
+| project-structure | Now    |
+| modules           | Now    |
+| tooling           | Now    |
 | linting       | Now    |
 | ci-cd         | Now    |
 | docker        | Now    |
