@@ -49,6 +49,11 @@ menu:
         icon: brand-github
 
 params:
+  sidebar:
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.png
   comments:
     enabled: true
     provider: giscus
