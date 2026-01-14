@@ -3,6 +3,7 @@ title: alnah.io
 theme: stack
 
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 languages:
   en:
     languageCode: en
