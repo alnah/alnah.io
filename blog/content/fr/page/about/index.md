@@ -48,7 +48,21 @@ Pas de blabla, pas de hype. Juste ce que j'apprends en construisant.
 
 ## Contact
 
-- GitHub : [github.com/alnah](https://github.com/alnah)
-- Email : me@alnah.io
-
 Freelancer, disponible pour des projets backend remote.
+
+<form class="contact-form" action="https://formspree.io/f/meeeoaad" method="POST">
+  <div class="form-group">
+    <label for="name">Nom</label>
+    <input type="text" id="name" name="name" required placeholder="Votre nom">
+  </div>
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required placeholder="votre@email.com">
+  </div>
+  <div class="form-group">
+    <label for="message">Message</label>
+    <textarea id="message" name="message" required placeholder="Votre message..."></textarea>
+  </div>
+  <input type="text" name="_gotcha" class="hp-field" tabindex="-1" autocomplete="off">
+  <button type="submit">Envoyer</button>
+</form>
