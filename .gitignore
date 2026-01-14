@@ -20,3 +20,6 @@ blog/assets/jsconfig.json
 # Secrets
 .env
 .env.*
+
+# Draft/private markdown files
+_*.md
