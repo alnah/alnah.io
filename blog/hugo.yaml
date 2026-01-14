@@ -86,6 +86,9 @@ outputs:
     - JSON
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
     codeFences: true
