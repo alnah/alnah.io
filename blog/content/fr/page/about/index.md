@@ -1,0 +1,49 @@
+---
+title: À propos
+description: Développeur Go, apprenant perpétuel
+date: '2026-01-14'
+aliases:
+  - a-propos
+  - contact
+---
+
+Je développe des systèmes backend et des outils CLI en Go, documentant mon parcours au fil de mon apprentissage.
+
+## Parcours d'apprentissage
+
+J'ai touché à Python 2 il y a plusieurs années, puis j'ai quitté la programmation. En 2024, je suis revenu via [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), [CS50](https://cs50.harvard.edu/x/), et [The Odin Project](https://www.theodinproject.com/). En 2025, j'ai terminé le parcours backend de [Boot.dev](https://www.boot.dev/) et j'ai commencé à construire en Go.
+
+Livres qui ont façonné mon approche :
+
+- [Learning Go](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/) de Jon Bodner
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) de Chris James
+- [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) d'Alexander Shvets
+- [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php) de John Ousterhout
+
+## Projets actuels
+
+[go-md2pdf](https://github.com/alnah/go-md2pdf) : un outil CLI qui convertit du Markdown en PDF. Construit avec un worker pool concurrent, une couverture de tests complète, et 8 thèmes CSS personnalisables.
+
+Je travaille aussi sur un projet EdTech personnel.
+
+## Parcours
+
+J'ai passé des années à enseigner le français en ligne, décomposant des règles de grammaire complexes en étapes compréhensibles. Cette même approche s'applique maintenant à l'écriture de code : structure claire, logique explicite, documentation qui aide plutôt qu'elle ne confond.
+
+## Ce que j'écris ici
+
+Ce blog traite du développement Go sous un angle pratique :
+
+- Patterns de concurrence qui fonctionnent en production
+- Stratégies de test au-delà des bases
+- Conception et distribution d'outils CLI
+- Leçons tirées de vrais projets
+
+Pas de blabla, pas de hype. Juste ce que j'apprends en construisant.
+
+## Contact
+
+- GitHub : [github.com/alnah](https://github.com/alnah)
+- Email : me@alnah.io
+
+Freelancer, disponible pour des projets backend remote.

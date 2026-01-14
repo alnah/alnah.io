@@ -1,0 +1,49 @@
+---
+title: Sobre
+description: Desenvolvedor Go, aprendiz perpétuo
+date: '2026-01-14'
+aliases:
+  - sobre-mim
+  - contato
+---
+
+Desenvolvo sistemas backend e ferramentas CLI em Go, documentando a jornada enquanto aprendo.
+
+## Caminho de aprendizado
+
+Toquei em Python 2 há anos, depois me afastei da programação. Em 2024, voltei através de [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), [CS50](https://cs50.harvard.edu/x/), e [The Odin Project](https://www.theodinproject.com/). Em 2025, completei o caminho backend do [Boot.dev](https://www.boot.dev/) e comecei a construir com Go.
+
+Livros que moldaram minha abordagem:
+
+- [Learning Go](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/) de Jon Bodner
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) de Chris James
+- [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) de Alexander Shvets
+- [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php) de John Ousterhout
+
+## Projetos atuais
+
+[go-md2pdf](https://github.com/alnah/go-md2pdf): Uma ferramenta CLI que converte Markdown para PDF. Construída com worker pool concorrente, cobertura completa de testes, e 8 temas CSS personalizáveis.
+
+Também estou trabalhando em um projeto EdTech pessoal.
+
+## Trajetória
+
+Passei anos ensinando francês online, decompondo regras gramaticais complexas em etapas compreensíveis. Essa mesma abordagem agora vai para a escrita de código: estrutura clara, lógica explícita, documentação que ajuda em vez de confundir.
+
+## O que escrevo aqui
+
+Este blog aborda desenvolvimento Go de um ângulo prático:
+
+- Padrões de concorrência que funcionam em produção
+- Estratégias de teste além do básico
+- Design e distribuição de ferramentas CLI
+- Lições de projetos reais
+
+Sem enrolação, sem hype. Apenas o que aprendo enquanto construo.
+
+## Contato
+
+- GitHub: [github.com/alnah](https://github.com/alnah)
+- Email: me@alnah.io
+
+Freelancer, disponível para projetos backend remotos.
